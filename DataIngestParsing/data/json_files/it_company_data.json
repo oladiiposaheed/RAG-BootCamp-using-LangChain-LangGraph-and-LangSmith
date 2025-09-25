@@ -1,0 +1,329 @@
+{
+    "employees": [
+        {
+            "employees": [
+                {
+                    "id": 1,
+                    "name": "John Smith",
+                    "position": "Software Engineer",
+                    "department": "Development",
+                    "email": "john.smith@company.com",
+                    "salary": 85000,
+                    "skills": [
+                        "JavaScript",
+                        "React",
+                        "Node.js",
+                        "Python"
+                    ],
+                    "hire_date": "2020-03-15",
+                    "is_active": true
+                },
+                {
+                    "id": 2,
+                    "name": "Sarah Johnson",
+                    "position": "UX Designer",
+                    "department": "Design",
+                    "email": "sarah.johnson@company.com",
+                    "salary": 75000,
+                    "skills": [
+                        "Figma",
+                        "Adobe XD",
+                        "UI/UX Design",
+                        "Prototyping"
+                    ],
+                    "hire_date": "2021-01-10",
+                    "is_active": true
+                },
+                {
+                    "id": 3,
+                    "name": "Michael Chen",
+                    "position": "DevOps Engineer",
+                    "department": "Operations",
+                    "email": "michael.chen@company.com",
+                    "salary": 95000,
+                    "skills": [
+                        "AWS",
+                        "Docker",
+                        "Kubernetes",
+                        "CI/CD"
+                    ],
+                    "hire_date": "2019-08-22",
+                    "is_active": true
+                },
+                {
+                    "id": 4,
+                    "name": "Emily Davis",
+                    "position": "Data Scientist",
+                    "department": "Analytics",
+                    "email": "emily.davis@company.com",
+                    "salary": 90000,
+                    "skills": [
+                        "Python",
+                        "R",
+                        "Machine Learning",
+                        "SQL"
+                    ],
+                    "hire_date": "2022-05-30",
+                    "is_active": true
+                },
+                {
+                    "id": 5,
+                    "name": "David Wilson",
+                    "position": "Project Manager",
+                    "department": "Management",
+                    "email": "david.wilson@company.com",
+                    "salary": 110000,
+                    "skills": [
+                        "Agile",
+                        "Scrum",
+                        "JIRA",
+                        "Project Planning"
+                    ],
+                    "hire_date": "2018-11-05",
+                    "is_active": true
+                },
+                {
+                    "id": 6,
+                    "name": "Lisa Brown",
+                    "position": "Frontend Developer",
+                    "department": "Development",
+                    "email": "lisa.brown@company.com",
+                    "salary": 82000,
+                    "skills": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Vue.js"
+                    ],
+                    "hire_date": "2021-09-12",
+                    "is_active": true
+                },
+                {
+                    "id": 7,
+                    "name": "Robert Taylor",
+                    "position": "Network Administrator",
+                    "department": "IT Support",
+                    "email": "robert.taylor@company.com",
+                    "salary": 78000,
+                    "skills": [
+                        "Cisco",
+                        "Firewalls",
+                        "Network Security",
+                        "VPN"
+                    ],
+                    "hire_date": "2020-07-18",
+                    "is_active": true
+                },
+                {
+                    "id": 8,
+                    "name": "Jennifer Lee",
+                    "position": "QA Engineer",
+                    "department": "Quality Assurance",
+                    "email": "jennifer.lee@company.com",
+                    "salary": 70000,
+                    "skills": [
+                        "Selenium",
+                        "Test Automation",
+                        "Manual Testing",
+                        "JUnit"
+                    ],
+                    "hire_date": "2022-02-28",
+                    "is_active": true
+                },
+                {
+                    "id": 9,
+                    "name": "James Anderson",
+                    "position": "Backend Developer",
+                    "department": "Development",
+                    "email": "james.anderson@company.com",
+                    "salary": 88000,
+                    "skills": [
+                        "Java",
+                        "Spring Boot",
+                        "MySQL",
+                        "Microservices"
+                    ],
+                    "hire_date": "2019-04-15",
+                    "is_active": true
+                },
+                {
+                    "id": 10,
+                    "name": "Maria Garcia",
+                    "position": "Database Administrator",
+                    "department": "Data Management",
+                    "email": "maria.garcia@company.com",
+                    "salary": 92000,
+                    "skills": [
+                        "Oracle",
+                        "SQL Server",
+                        "Database Optimization",
+                        "Backup"
+                    ],
+                    "hire_date": "2020-12-01",
+                    "is_active": true
+                },
+                {
+                    "id": 11,
+                    "name": "Thomas Martin",
+                    "position": "System Administrator",
+                    "department": "IT Support",
+                    "email": "thomas.martin@company.com",
+                    "salary": 76000,
+                    "skills": [
+                        "Windows Server",
+                        "Linux",
+                        "Active Directory",
+                        "Virtualization"
+                    ],
+                    "hire_date": "2021-06-20",
+                    "is_active": true
+                },
+                {
+                    "id": 12,
+                    "name": "Karen White",
+                    "position": "Business Analyst",
+                    "department": "Analytics",
+                    "email": "karen.white@company.com",
+                    "salary": 83000,
+                    "skills": [
+                        "Requirements Gathering",
+                        "Data Analysis",
+                        "Documentation",
+                        "UML"
+                    ],
+                    "hire_date": "2022-03-10",
+                    "is_active": true
+                },
+                {
+                    "id": 13,
+                    "name": "Christopher Moore",
+                    "position": "Mobile Developer",
+                    "department": "Development",
+                    "email": "christopher.moore@company.com",
+                    "salary": 87000,
+                    "skills": [
+                        "Swift",
+                        "Kotlin",
+                        "React Native",
+                        "iOS/Android"
+                    ],
+                    "hire_date": "2020-09-05",
+                    "is_active": true
+                },
+                {
+                    "id": 14,
+                    "name": "Amanda Harris",
+                    "position": "Technical Writer",
+                    "department": "Documentation",
+                    "email": "amanda.harris@company.com",
+                    "salary": 65000,
+                    "skills": [
+                        "Technical Documentation",
+                        "API Documentation",
+                        "Markdown",
+                        "Confluence"
+                    ],
+                    "hire_date": "2021-11-15",
+                    "is_active": true
+                },
+                {
+                    "id": 15,
+                    "name": "Daniel Thompson",
+                    "position": "Security Specialist",
+                    "department": "Cybersecurity",
+                    "email": "daniel.thompson@company.com",
+                    "salary": 98000,
+                    "skills": [
+                        "Penetration Testing",
+                        "Security Auditing",
+                        "OWASP",
+                        "Encryption"
+                    ],
+                    "hire_date": "2019-12-10",
+                    "is_active": true
+                },
+                {
+                    "id": 16,
+                    "name": "Michelle Rodriguez",
+                    "position": "Cloud Architect",
+                    "department": "Operations",
+                    "email": "michelle.rodriguez@company.com",
+                    "salary": 115000,
+                    "skills": [
+                        "AWS",
+                        "Azure",
+                        "Cloud Infrastructure",
+                        "Terraform"
+                    ],
+                    "hire_date": "2018-06-25",
+                    "is_active": true
+                },
+                {
+                    "id": 17,
+                    "name": "Kevin Scott",
+                    "position": "Technical Support",
+                    "department": "IT Support",
+                    "email": "kevin.scott@company.com",
+                    "salary": 60000,
+                    "skills": [
+                        "Troubleshooting",
+                        "Customer Service",
+                        "Hardware",
+                        "Software Support"
+                    ],
+                    "hire_date": "2022-07-01",
+                    "is_active": true
+                },
+                {
+                    "id": 18,
+                    "name": "Jessica King",
+                    "position": "Product Manager",
+                    "department": "Management",
+                    "email": "jessica.king@company.com",
+                    "salary": 105000,
+                    "skills": [
+                        "Product Strategy",
+                        "Market Research",
+                        "Roadmapping",
+                        "Stakeholder Management"
+                    ],
+                    "hire_date": "2020-02-14",
+                    "is_active": true
+                },
+                {
+                    "id": 19,
+                    "name": "Richard Green",
+                    "position": "Full Stack Developer",
+                    "department": "Development",
+                    "email": "richard.green@company.com",
+                    "salary": 92000,
+                    "skills": [
+                        "JavaScript",
+                        "React",
+                        "Node.js",
+                        "MongoDB",
+                        "Express"
+                    ],
+                    "hire_date": "2021-04-22",
+                    "is_active": true
+                },
+                {
+                    "id": 20,
+                    "name": "Susan Hall",
+                    "position": "IT Director",
+                    "department": "Executive",
+                    "email": "susan.hall@company.com",
+                    "salary": 145000,
+                    "skills": [
+                        "Leadership",
+                        "Strategic Planning",
+                        "Budget Management",
+                        "IT Governance"
+                    ],
+                    "hire_date": "2017-03-10",
+                    "is_active": true
+                }
+            ]
+        }
+    ]
+}
