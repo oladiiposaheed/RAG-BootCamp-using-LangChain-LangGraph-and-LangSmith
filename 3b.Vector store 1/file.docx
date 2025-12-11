@@ -1,0 +1,51 @@
+# Define a list of documents, each as a separate string
+docs = [
+    '''
+    Python Programming Language
+    
+    🐍 **Python** is a high-level, interpreted programming language known for its simplicity and readability.  
+    💡 It supports multiple programming paradigms, including procedural, object-oriented, and functional styles.  
+    🚀 Widely used in web development, data science, automation, AI, and more.  
+    📚 Python has a vast ecosystem of libraries and frameworks like Django, NumPy, and TensorFlow.  
+    🌍 Its clear syntax and strong community make it ideal for beginners and professionals alike.
+    ''',
+
+    '''
+    Introduction to Machine Learning
+    
+    🤖 **Machine Learning (ML)** is a branch of artificial intelligence that enables systems to learn from data without being explicitly programmed.  
+    📈 It uses algorithms to identify patterns, make predictions, or improve performance over time.  
+    🧠 ML models are trained on datasets and adjust themselves based on feedback or new inputs.  
+    🔍 Common types include supervised, unsupervised, and reinforcement learning.  
+    💬 Applications range from speech recognition and spam filtering to fraud detection and self-driving cars.  
+    🛠️ Tools like Python, TensorFlow, and Scikit-learn are popular in ML development.  
+    🌍 ML is transforming industries by automating decisions and uncovering insights from big data.
+    ''',
+
+    '''
+    Django for Backend Development
+    
+    🌐 **Django** is a high-level Python web framework that enables rapid development of secure and maintainable websites.  
+    ⚙️ It follows the Model-View-Template (MVT) architectural pattern to separate data, logic, and presentation.  
+    🚀 Django comes with built-in features like authentication, admin interface, and URL routing.  
+    🛡️ It emphasizes security, helping developers avoid common threats like SQL injection and cross-site scripting.  
+    📦 With its "batteries-included" philosophy, Django provides everything needed to build full-stack web apps.  
+    🔍 It's widely used for content management systems, social networks, and scientific platforms.  
+    🌍 Django powers popular sites like Instagram, Pinterest, and Mozilla.
+    ''',
+
+    '''
+    Introduction to Deep Learning
+    
+    🧠 **Deep Learning** is a subset of machine learning that uses neural networks with many layers to model complex patterns in data.  
+    🔗 These layers mimic the human brain’s structure, enabling systems to learn hierarchical representations.  
+    📚 It excels at tasks like image recognition, natural language processing, and speech translation.  
+    🧪 Deep learning models require large datasets and powerful computing resources to train effectively.  
+    🕸️ Popular architectures include Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).  
+    🛠️ Frameworks like TensorFlow and PyTorch are commonly used to build deep learning applications.  
+    🚀 Deep learning drives innovations in autonomous vehicles, medical diagnostics, and generative AI.
+    '''
+]
+
+# Verify how many documents are in the list
+print(len(docs))  # Should print 4
