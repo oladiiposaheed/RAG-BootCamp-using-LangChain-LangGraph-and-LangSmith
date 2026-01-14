@@ -10,19 +10,18 @@ pypdf
 python-dotenv
 pymupdf
 unstructured
-pdfminer
+unstructured[docx]
+pdfminer.six
 python-docx
 docx2txt
-unstructured[docx]
 pandas
 openpyxl
 jq
 matplotlib
-# Embeddings
 langchain_huggingface
-sentence-transformers
 langchain-google-genai
 ipywidgets
-textract
-python-docx
 langchain-experimental
+pydantic==2.9.2
+rank_bm25
+ipykernel
